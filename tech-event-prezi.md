@@ -49,7 +49,8 @@ https://github.com/juice-shop/juice-shop
 ![[Pasted image 20231128152235.png]]
 - real world breach:
 	- **broken object level auth:** coinbase, params changed in the api call, sold crypto he did not owned
-		-![[Pasted image 20231213152936.png]]
+		![image](https://github.com/radopeti/stuff/assets/13570657/99adacea-a7fb-41c3-a2ff-7b209b9d42d6)
+
 
 [Cross-Site Scripting XSS](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A7-Cross-Site_Scripting_(XSS))
 - DOM 
