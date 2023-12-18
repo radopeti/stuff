@@ -46,7 +46,8 @@ https://github.com/juice-shop/juice-shop
 - exposing versions and logs
 
 [Broken Access Control](https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A5-Broken_Access_Control)
-![[Pasted image 20231128152235.png]]
+![image](https://github.com/radopeti/stuff/assets/13570657/3ace6b33-527c-4408-a0c0-36fa23ae4c1d)
+
 - real world breach:
 	- **broken object level auth:** coinbase, params changed in the api call, sold crypto he did not owned
 		![image](https://github.com/radopeti/stuff/assets/13570657/99adacea-a7fb-41c3-a2ff-7b209b9d42d6)
